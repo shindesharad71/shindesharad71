@@ -2,4 +2,13 @@
 
 I am [Sharad](https://sharadshinde.in), Full Stack JavaScript Developer.
 
-<img src="https://www.codewars.com/users/shindesharad71/badges/small">
+I go by Sharad Shinde. Typical username `shindesharad71`.
+
++ 🌱 I have a [portfolio], [linkedIn], a [resume], and a [codewars] profile.
++ 🤔 I'm learning Data Structures and Problem Solving as well as MEAN Stack.
++ 💬 Ask me about JavaScript and Web Development!
+
+ [portfolio]: https://sharadshinde.in
+ [linkedIn]: https://www.linkedin.com/in/shindesharad71/
+ [resume]: https://sharadshinde.in
+ [codewars]: https://www.codewars.com/users/shindesharad71
