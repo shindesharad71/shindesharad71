@@ -8,6 +8,11 @@ I go by Sharad Shinde. Typical username `shindesharad71`.
 + 🤔 I'm learning Data Structures and Problem Solving as well as MEAN Stack.
 + 💬 Ask me about JavaScript and Web Development!
 
+<img src="https://github-readme-stats.vercel.app/api?username=shindesharad71&show_icons=true&text_color=fff&bg_color=151515&title_color=fff">
+
+### Visitors - 
+<img align="center" src="https://profile-counter.glitch.me/shindesharad71/count.svg">
+
  [portfolio]: https://sharadshinde.in
  [linkedIn]: https://www.linkedin.com/in/shindesharad71/
  [resume]: https://resume.sharadshinde.in
