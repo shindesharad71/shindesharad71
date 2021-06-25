@@ -5,15 +5,15 @@ I am [Sharad](https://sharadshinde.in), Full Stack JavaScript Developer.
 I go by Sharad Shinde. Typical username `shindesharad71`.
 
 + 🌱 I have a [portfolio], [linkedIn], a [resume], and a [codewars] profile.
-+ 🤔 I'm learning **Data Structures and Problem Solving** as well as **MEAN Stack**.
++ 🤔 I'm learning **Data Structures and Problem Solving** as well as **Python**.
 + 👨‍💻 All of my projects are available at [sharadshinde.in]
-+ 💬 Ask me about **Angular, Node and Express**
++ 💬 Ask me about **Full Stack Web Development**
 + ⚡ Fun fact **Chai over coffee**
 
 
 <p float="left">
   <img src="https://github-readme-stats.vercel.app/api?username=shindesharad71&show_icons=true&text_color=fff&bg_color=151515&title_color=fff" width="450" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shindesharad71&" alt="shindesharad71" width="450" /> 
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shindesharad71&" alt="shindesharad71" width="450" />
 </p>
 
 ### Visitors - 
