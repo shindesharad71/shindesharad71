@@ -1,6 +1,6 @@
-### Hi there 👋
+<h1>Hi Stranger, I am <a href="https://sharadshinde.in">Sharad</a><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
-I am [Sharad](https://sharadshinde.in), Full Stack JavaScript Developer.
+I am Full Stack Developer.
 
 I go by Sharad Shinde. Typical username `shindesharad71`.
 
