@@ -1,4 +1,4 @@
-<h1>Hi Stranger, I am <a href="https://sharadshinde.in">Sharad</a><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
+<h1>Hi Stranger, I am <a href="https://sharadshinde.in" target="_blank">Sharad</a><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
 I am Full Stack Developer.
 
