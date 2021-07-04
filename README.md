@@ -23,4 +23,4 @@ I go by Sharad Shinde. Typical username `shindesharad71`.
  [linkedIn]: https://www.linkedin.com/in/shindesharad71/
  [resume]: https://resume.sharadshinde.in
  [codewars]: https://www.codewars.com/users/shindesharad71
- [sharadshinde.in]: https://sharadshinde.in
+ [shrd.in]: https://shrd.in
