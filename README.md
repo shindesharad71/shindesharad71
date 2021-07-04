@@ -19,7 +19,7 @@ I go by Sharad Shinde. Typical username `shindesharad71`.
 ### Visitors - 
 <img align="center" src="https://profile-counter.glitch.me/shindesharad71/count.svg">
 
- [portfolio]: https://sharadshinde.in
+ [portfolio]: https://shard.in
  [linkedIn]: https://www.linkedin.com/in/shindesharad71/
  [resume]: https://resume.sharadshinde.in
  [codewars]: https://www.codewars.com/users/shindesharad71
