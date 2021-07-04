@@ -12,8 +12,8 @@ I go by Sharad Shinde. Typical username `shindesharad71`.
 
 
 <p float="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=shindesharad71&show_icons=true&text_color=fff&bg_color=151515&title_color=fff" width="370" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shindesharad71&" alt="shindesharad71" width="370" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shindesharad71&show_icons=true&text_color=fff&bg_color=151515&title_color=fff" width="400" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shindesharad71&" alt="shindesharad71" width="400" />
 </p>
 
  [portfolio]: https://shrd.in
