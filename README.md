@@ -1,4 +1,4 @@
-<h1>Hi Stranger, I am <a href="https://sharadshinde.in" target="_blank">Sharad</a><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
+<h1>Hi Stranger, I am <a href="https://shrd.in" target="_blank">Sharad</a><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
 I am Full Stack Developer.
 
@@ -19,7 +19,7 @@ I go by Sharad Shinde. Typical username `shindesharad71`.
 ### Visitors - 
 <img align="center" src="https://profile-counter.glitch.me/shindesharad71/count.svg">
 
- [portfolio]: https://shard.in
+ [portfolio]: https://shrd.in
  [linkedIn]: https://www.linkedin.com/in/shindesharad71/
  [resume]: https://resume.sharadshinde.in
  [codewars]: https://www.codewars.com/users/shindesharad71
