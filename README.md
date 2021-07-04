@@ -6,7 +6,7 @@ I go by Sharad Shinde. Typical username `shindesharad71`.
 
 + 🌱 I have a [portfolio], [linkedIn], a [resume], and a [codewars] profile.
 + 🤔 I'm learning **Data Structures and Problem Solving** as well as **Python**.
-+ 👨‍💻 All of my projects are available at [sharadshinde.in]
++ 👨‍💻 All of my projects are available at [shrd.in]
 + 💬 Ask me about **Full Stack Web Development**
 + ⚡ Fun fact **Chai over coffee**
 
