@@ -18,6 +18,6 @@ I go by Sharad Shinde. Typical username `shindesharad71`.
 
  [portfolio]: https://shrd.in
  [linkedIn]: https://www.linkedin.com/in/shindesharad71/
- [resume]: https://resume.sharadshinde.in
+ [resume]: https://cv.shrd.in
  [codewars]: https://www.codewars.com/users/shindesharad71
  [shrd.in]: https://shrd.in
